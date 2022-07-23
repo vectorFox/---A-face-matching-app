@@ -36,6 +36,11 @@
 （5）	单击【退出程序】退出。
 
 
+##算法用的是直方图匹配~~我看不懂~~
+
+![image](https://user-images.githubusercontent.com/92865821/180609047-86d79aae-288e-4b9a-86ad-45d87929a723.png)
+
+
 ## 参考资料
 
 1、	Building Computer Vision Projects with OpenCV 4 and C++ (David Millán Escrivá)
